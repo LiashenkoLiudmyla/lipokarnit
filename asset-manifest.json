@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/lipokarnit/static/css/main.be342774.css",
+    "main.js": "/lipokarnit/static/js/main.e6304f87.js",
+    "static/js/787.66ae6590.chunk.js": "/lipokarnit/static/js/787.66ae6590.chunk.js",
+    "static/media/lipokarnit.png": "/lipokarnit/static/media/lipokarnit.2e9775753991f07b1f82.png",
+    "static/media/3.jpg": "/lipokarnit/static/media/3.6950cc105423cc5d0fc5.jpg",
+    "static/media/1.jpg": "/lipokarnit/static/media/1.79b9e0fc8de66e23163a.jpg",
+    "static/media/4.jpg": "/lipokarnit/static/media/4.e10414988b5a5ac4271e.jpg",
+    "static/media/main.jpg": "/lipokarnit/static/media/main.79a325fa0a2fe8764267.jpg",
+    "static/media/2.jpg": "/lipokarnit/static/media/2.c3e81d7098be24c2e6c2.jpg",
+    "static/media/AnotherImage.png": "/lipokarnit/static/media/AnotherImage.617efb1b969f2ec4e3fe.png",
+    "static/media/l2.jpg": "/lipokarnit/static/media/l2.b2f679ce6df117ada5ab.jpg",
+    "static/media/len2.jpg": "/lipokarnit/static/media/len2.72736413332666d4133d.jpg",
+    "static/media/l3.jpg": "/lipokarnit/static/media/l3.3d8f56c9356b1fe333f0.jpg",
+    "static/media/l4.jpg": "/lipokarnit/static/media/l4.45af852a9ccc665f4342.jpg",
+    "static/media/len3.jpg": "/lipokarnit/static/media/len3.2fea0b14d693a2052305.jpg",
+    "static/media/ImagesGrid.png": "/lipokarnit/static/media/ImagesGrid.72f9c1cebaccf202d071.png",
+    "static/media/l1.jpg": "/lipokarnit/static/media/l1.ef96816ce1bcb1bac72b.jpg",
+    "static/media/len1.jpg": "/lipokarnit/static/media/len1.f57e30b64d8335bf3c05.jpg",
+    "static/media/insta.svg": "/lipokarnit/static/media/insta.8857f103919428f24ed96376fc11135e.svg",
+    "static/media/teleg.svg": "/lipokarnit/static/media/teleg.fbcf18553419c45cd61dab35804ea9d3.svg",
+    "static/media/fb.svg": "/lipokarnit/static/media/fb.12de75f263349903d4b415e9d55ed1b6.svg",
+    "static/media/lupa 1.svg": "/lipokarnit/static/media/lupa 1.828e5a411ba046b830d2f9f6012d82a4.svg",
+    "index.html": "/lipokarnit/index.html",
+    "static/media/1_plus_1_logo.svg": "/lipokarnit/static/media/1_plus_1_logo.2673dd9ee547be93a0d6e210628b5939.svg",
+    "main.be342774.css.map": "/lipokarnit/static/css/main.be342774.css.map",
+    "main.e6304f87.js.map": "/lipokarnit/static/js/main.e6304f87.js.map",
+    "787.66ae6590.chunk.js.map": "/lipokarnit/static/js/787.66ae6590.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be342774.css",
+    "static/js/main.e6304f87.js"
+  ]
+}
