@@ -1,0 +1,96 @@
+/* body{
+    max-width: 1400px;
+} */
+
+.right-column {
+    font-size: 28px;
+    font-family: Calibri, Arial, sans-serif;
+}
+
+.reviews-container {
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 1146px;
+    height: 320px;
+    align-items: flex-start;
+}
+
+h2 {
+    margin: 55px 0 10px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* Змінено значення align-items на flex-start */
+
+    margin-bottom: 46px;
+}
+
+.left-column {
+    display: flex;
+    flex-direction: column;
+    /* Змінено значення align-items на flex-start */
+}
+
+
+
+
+.photo_ludmila {
+
+
+    margin: 45px 25px 0;
+    width: 195px;
+    height: 195px;
+}
+
+.image-caption {
+    text-align: center;
+    font-weight: bold;
+}
+
+.right-column {
+    width: calc(100% - 195px);
+    /* Ширина правої колонки без фото */
+}
+
+.text {
+    text-align: left;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.three-photos {
+    max-width: 1200px;
+    display: flex;
+    margin-bottom: 55px;
+}
+
+.photo {
+    height: 450px;
+
+    align-items: center;
+
+}
+
+.photo-centrum {
+    margin: 0 50px;
+}
+
+.horizontal-line{
+    margin: 50px 0 50px;
+   
+/*     
+    background-color: black;
+    align-items: center;
+    width: 100%;
+    
+    height: 12px;
+    background-color: rgb(137, 137, 138); */
+  }
+  

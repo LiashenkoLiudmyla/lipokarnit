@@ -1,0 +1,87 @@
+body{
+    max-width: 1800px;
+    margin: 0 auto;
+
+}
+.Main {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.title {
+    font-size: 46px;
+    margin: 0 auto;
+    padding:  31px 0 31px 0;
+    font-family: Calibri, Arial, sans-serif;
+    max-width: 800px;
+    text-align: center;
+}
+
+.img-main {
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+.main-text{
+    font-size: 26px;
+  
+    margin: 0 auto;
+    padding:  31px 0 31px 0;
+    font-family: Calibri, Arial, sans-serif;
+    max-width: 1050px;
+    text-align: left;
+}
+
+span{
+    font-size: 26px;
+    /* font-weight: 600; */
+    font-weight: 600;
+}
+
+.main-text-span{
+    color: rgb(87, 86, 86);
+    font-style: italic;
+    font-size: 20px;
+}
+.lipokarnit{
+    margin: 0 auto;
+    height: 658px;
+    width: 100%;
+    background-color: #F7F3F3;
+}
+.lipokarnit-flex{
+    font-size: 26px;
+    text-align: left;
+    margin: auto  0;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+   
+}
+.lipokarnit-title{
+    margin-left: 50px;
+    
+}
+.lipokarnit-img{
+    max-width: 549px;
+}
+li{
+    font-size: 24px;
+    font-style: italic;
+    margin: 30px;
+}
+.span-red{
+    color: crimson;
+    font-weight: 400;
+}
+.span-reclama, .span-red-reclama {
+    font-size: 32px;
+    font-weight: 700;
+}
+.span-red-reclama{
+    color: crimson;
+}
+.img-main-reclama{
+    max-width: 550px;
+}
